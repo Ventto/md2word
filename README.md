@@ -1,11 +1,8 @@
 MD2Word
 =======
 
-Definition
-----------
-
-MD2Word is a personal tool to generate simple word report from markdown (using word title
-page and template).
+*MD2Word is a personal tool to generate simple word report from markdown (using word title
+page and template).*
 
 **Warning: This tool is experimental.**
 
@@ -21,9 +18,9 @@ Requirements
 Modules
 -------
 
-* ODocxMerge - Simple tool to merge two docx files into one (using Open-XML-SDK
+* [ODocxMerge](https://github.com/Ventto/odocxmerge) - Simple tool to merge two docx files into one (using Open-XML-SDK
 and Mono)
-* ODocxTpl - Simple tool to generate a word document from .docx template and YAML
+* [ODocxTpl](https://github.com/Ventto/odocxtpl) - Simple tool to generate a word document from .docx template and YAML
 variables (using py-docx-tpl)
 
 Installation
@@ -39,3 +36,9 @@ Generate Report
 ```
 $ make
 ```
+
+TODO
+----
+
+* Describe the repo's arborescence
+* How to manage word template with titlepage and generated pandoc.docx
