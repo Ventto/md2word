@@ -18,3 +18,4 @@ meta/*
 !README.md
 !Makefile
 !.gitignore
+!.gitmodules

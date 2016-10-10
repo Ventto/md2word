@@ -1,0 +1,6 @@
+[submodule "tools/odocxtpl"]
+	path = tools/odocxtpl
+	url = https://github.com/Ventto/odocxtpl.git
+[submodule "tools/odocxmerge"]
+	path = tools/odocxmerge
+	url = https://github.com/Ventto/odocxmerge.git
