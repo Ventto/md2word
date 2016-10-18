@@ -40,5 +40,5 @@ $ make
 TODO
 ----
 
-* Describe the repo's arborescence
-* How to manage word template with titlepage and generated pandoc.docx
+- [ ] Describe the repo's arborescence
+- [ ] How to manage word template with titlepage and generated pandoc.docx
